@@ -10,6 +10,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	background-color: #0144bd;
+	padding: 1rem;
 }
 
 .card {
